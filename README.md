@@ -78,10 +78,9 @@ Large public raw I/Q datasets are not redistributed in this repository. Users sh
 
 If you use this code, please cite the corresponding paper and the archived Zenodo release:
 
-Sergo A. Episkoposian. UAV Haar-Walsh Real-Data Validation Runner. Version 1.0.2. Zenodo.
+Sergo A. Episkoposian. UAV Haar-Walsh Real-Data Validation Runner. Version 1.0.3. Zenodo.
 
-https://doi.org/10.5281/zenodo.20743198
-
+https://doi.org/10.5281/zenodo.20743320
 ## License
 
 This project is released under the MIT License.
