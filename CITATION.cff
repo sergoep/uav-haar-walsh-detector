@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "UAV Haar-Walsh Real-Data Validation Runner"
+type: software
+authors:
+  - family-names: Episkoposian
+    given-names: Sergo A.
+    affiliation: National Polytechnic University of Armenia
+version: 1.0.0
+date-released: 2026-06-18
+repository-code: "https://github.com/sergoep/uav-haar-walsh-detector"
+url: "https://github.com/sergoep/uav-haar-walsh-detector"
+doi: "TO_BE_ADDED_AFTER_ZENODO_RELEASE"
+license: MIT
+keywords:
+  - Haar transform
+  - Walsh-Hadamard transform
+  - UAV signal monitoring
+  - GNSS interference detection
+  - RF I/Q validation
+  - split conformal prediction
+  - structural anomaly detection
