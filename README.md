@@ -112,11 +112,9 @@ Large public raw I/Q datasets are not redistributed in this repository. Users sh
 
 ## Citation
 
-If you use this code, please cite the corresponding paper and the archived Zenodo release:
+Sergo A. Episkoposian. UAV Haar-Walsh Synthetic and Real-Data Validation Code. Version 1.0.4. Zenodo.
 
-Sergo A. Episkoposian. UAV Haar-Walsh Synthetic and Real-Data Validation Code. Version 1.0.3. Zenodo.
-
-https://doi.org/10.5281/zenodo.20743320
+https://doi.org/10.5281/zenodo.20745256
 
 ## License
 
