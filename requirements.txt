@@ -3,3 +3,5 @@ pandas
 scipy
 scikit-learn
 matplotlib
+requests
+PyWavelets
