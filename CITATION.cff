@@ -6,11 +6,11 @@ authors:
   - family-names: Episkoposian
     given-names: Sergo A.
     affiliation: National Polytechnic University of Armenia
-version: 1.0.2
+version: 1.0.3
 date-released: 2026-06-18
 repository-code: "https://github.com/sergoep/uav-haar-walsh-detector"
 url: "https://github.com/sergoep/uav-haar-walsh-detector"
-doi: "10.5281/zenodo.20743198"
+doi: "10.5281/zenodo.20743320"
 license: MIT
 keywords:
   - Haar transform
